@@ -1,4 +1,4 @@
-# Aqueduct: A Low Level Protocol for Intra-Rack Communication
+# Aqueduct: A Low Level Protocol for Intra-Rack Communication (Specification and Reference Implementation)
 
 ## 1. Introduction
 
